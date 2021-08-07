@@ -23,3 +23,7 @@
  - **ECCV** - Human Interaction Learning on 3D Skeleton Point Clouds for Video Violence Recognition<br>[[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490069.pdf)
  - **ECCV** - Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision <br>[[Paper]](https://arxiv.org/pdf/2007.04687.pdf)[[Code]](https://github.com/Roc-Ng/XDVioDet)[[Project]](https://roc-ng.github.io/XD-Violence/)
  -  **T-CSVT** - Web Objectionable Video Recognition Based on Deep Multi-Instance Learning with Representative Prototypes Selection<br>[[Paper]](http://vslab.ia.ac.cn/files/web.pdf)
+ -  **ICMR** - A Crowd Analysis Framework for Detecting Violence Scenes<br> [[Paper]](https://dl.acm.org/doi/abs/10.1145/3372278.3390725)
+
+### 2019
+- **ICASSP** - Detection of Real-world Fights in Surveillance Videos<br> [[Paper]](https://ieeexplore.ieee.org/document/8683676)
